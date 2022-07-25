@@ -1,0 +1,14 @@
+List of pods NOT Exceeded CPU limit: 
+	kubectl-pod-1
+List of pods NOT Exceeded MRM limit: 
+	kubectl-pod-1
+	kubectl-pod-2
+List of pods Exceeded CPU limit: 
+	kubectl-pod-2
+	kubectl-pod-3
+	kubectl-pod-4
+	kubectl-pod-5
+List of pods Exceeded MEM limit: 
+	kubectl-pod-3
+	kubectl-pod-4
+	kubectl-pod-5
